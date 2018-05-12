@@ -1,4 +1,8 @@
 _repo: La-guerra-del-Vespro-Siciliano-vol-2-Un-periodo-delle-storie-Siciliane-del-secolo-XIII_47114
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47114-h/images/cover.jpg
 creator:
   author:
     agent_name: Amari, Michele
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33895
     wikipedia: http://it.wikipedia.org/wiki/Michele_Amari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47114#La-guerra-del-Vespro-Siciliano-vol-2-Un-periodo-delle-storie-Siciliane-del-secolo-XIII
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2014-10-14'
 gutenberg_type: Text
